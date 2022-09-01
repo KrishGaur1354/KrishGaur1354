@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Krish Gaur</h1>
 
-
+![Profile Visits](https://komarev.com/ghpvc/?username=KrishGaur1354&color=green)
 ![Channel Views](https://img.shields.io/youtube/channel/views/UC1x1aok5Ji52Dw6G8_GN59Q?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1x1aok5Ji52Dw6G8_GN59Q?style=social)
 ![Twitter Followers](https://img.shields.io/twitter/follow/ThatOneKrish?style=social)
