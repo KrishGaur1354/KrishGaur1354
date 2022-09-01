@@ -1,6 +1,5 @@
 ### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile.
 
----
 <h1 align="center">I'm Krish Gaur</h1>
 
 
@@ -9,6 +8,7 @@
 ![Twitter Followers](https://img.shields.io/twitter/follow/ThatOneKrish?style=social)
 ![Channel Views](https://img.shields.io/youtube/channel/views/UC1x1aok5Ji52Dw6G8_GN59Q?style=social)
 
+---
 
 ![KrishGaur1354](https://socialify.git.ci/KrishGaur1354/KrishGaur1354/image?font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
 
