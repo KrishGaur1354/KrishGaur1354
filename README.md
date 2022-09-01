@@ -1,4 +1,4 @@
-### <h2 align="center">Hello <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, Welcome to my profile<h2>
+### <h2 align="center">Hello <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, Welcome to my profile</h2>
 
 <h1 align="center">I'm Krish Gaur</h1>
 
