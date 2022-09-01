@@ -20,6 +20,6 @@
 
 - I'm Currently learning and making projects using Java,Javascript,HTML,CSS,Python & C++.
 
-- You can contact me via my Personal Email <a href = "mailto = krishgaur13@gmail.com">Here</a>
+- You can contact me via my Personal Email <a href="mailto=krishgaur13@gmail.com">Here</a>
 
 ---
