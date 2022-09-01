@@ -3,10 +3,11 @@
 <h1 align="center">I'm Krish Gaur</h1>
 
 
-![Github Profile](https://img.shields.io/github/followers/KrishGaur1354?style=social)
+![Channel Views](https://img.shields.io/youtube/channel/views/UC1x1aok5Ji52Dw6G8_GN59Q?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1x1aok5Ji52Dw6G8_GN59Q?style=social)
 ![Twitter Followers](https://img.shields.io/twitter/follow/ThatOneKrish?style=social)
-![Channel Views](https://img.shields.io/youtube/channel/views/UC1x1aok5Ji52Dw6G8_GN59Q?style=social)
+![Github Profile](https://img.shields.io/github/followers/KrishGaur1354?style=social)
+
 
 ---
 
