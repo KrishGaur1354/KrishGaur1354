@@ -23,3 +23,7 @@
 - You can contact me via my Personal Email <a href="mailto=krishgaur13@gmail.com">Here</a>
 
 ---
+### LANGUAGES
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
