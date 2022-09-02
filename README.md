@@ -12,7 +12,7 @@
 
 ---
 
-![KrishGaur1354](https://socialify.git.ci/KrishGaur1354/KrishGaur1354/image?font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
+// ![KrishGaur1354](https://socialify.git.ci/KrishGaur1354/KrishGaur1354/image?font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
 
 
 ---
