@@ -31,6 +31,6 @@
 ---
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishgaur1354&show_icons=true&theme=algolia)
 
