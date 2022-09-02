@@ -12,11 +12,6 @@
 
 ---
 
-// ![KrishGaur1354](https://socialify.git.ci/KrishGaur1354/KrishGaur1354/image?font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
-
-
----
-
 
 <img src="https://github.com/KrishGaur1354/Practiceins/blob/master/banner1354.png">
 
