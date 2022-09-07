@@ -44,7 +44,6 @@
 ---
 
 <img src="https://github.com/KrishGaur1354/Practiceins/blob/master/banner1354.png">
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user={krishgaur1354})
 
 ---
 
