@@ -54,9 +54,11 @@
 
 - I'm a newbie to Programming and web devlopment.
 
-- I'm Currently learning and making projects using Java,Javascript,HTML,CSS,Python & C++.
+- I'm Currently learning and making projects using Java , Javascript , HTML , CSS , Python , MySQL & C++.
 
-- You can contact me via my Personal Email <a href="mailto=krishgaur13@gmail.com">Here</a>
+- You can contact me via my Personal Email <a href="mailto=krishgaur13@gmail.com"><i>here</i></a>
+
+- Check Out my <a href="https://leetcode.com/KrishGaur1354/"><i><u>leetcode profile</u></i></a>.
 
 ---
 ### Most Used Languages
