@@ -44,7 +44,7 @@
 
 ---
 
-<img src="https://github.com/KrishGaur1354/Practiceins/blob/master/banner1354.png">
+<CENTER><img width = "1000px" height = "250px" src="https://github.com/KrishGaur1354/Practiceins/blob/master/ezgif-1-dc7ee4f7c8.gif"></CENTER>
 
 ---
 
