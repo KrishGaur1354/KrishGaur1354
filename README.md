@@ -67,5 +67,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishgaur1354&show_icons=true&theme=algolia)
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/>
 
-<a href="https://github.com/KrishGaur1354"><h1><b>YOU'RE STILL WATCHING AREN'T YOU</b></h1></a>
+<a href="https://github.com/KrishGaur1354"><h1 align = "center"><b>YOU'RE STILL WATCHING AREN'T YOU, DON'T WORRY JUST CLICK HERE & REFRESH THE PAGE</b></h1></a>
 
