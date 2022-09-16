@@ -14,7 +14,7 @@
 
 ---
 
-### TOP STACKS
+### TOP STACKS :
 
 ![VS CODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -46,11 +46,7 @@
 
 <CENTER><img width = "1000px" height = "250px" src="https://github.com/KrishGaur1354/Practiceins/blob/master/ezgif-1-dc7ee4f7c8.gif"></CENTER>
 
----
-
-
-
-### About Me:
+### <h2>About Me : </h2>
 
 - I'm a newbie to Programming and web devlopment.
 
