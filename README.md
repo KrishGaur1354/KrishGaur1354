@@ -1,5 +1,4 @@
 ### <h2 align="center">Hello <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, Welcome to my profile</h2>
-
 <h1 align="center">I'm Krish Gaur</h1>
 
 
@@ -11,6 +10,8 @@
 ![Youtube Second channel subscribers](https://img.shields.io/youtube/channel/subscribers/UChVQCKleV_WKpQkPu_8nozw?style=social)
 ![Twitter Followers](https://img.shields.io/twitter/follow/ThatOneKrish?style=social)
 ![Github Profile](https://img.shields.io/github/followers/KrishGaur1354?style=social)
+![Github Stars](https://img.shields.io/github/stars/KrishGaur1354?style=social)
+<CENTER><img width = "1000px" height = "250px" src="https://github.com/KrishGaur1354/Practiceins/blob/master/ezgif-1-dc7ee4f7c8.gif"></CENTER>
 
 ---
 
@@ -43,8 +44,6 @@
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-<CENTER><img width = "1000px" height = "250px" src="https://github.com/KrishGaur1354/Practiceins/blob/master/ezgif-1-dc7ee4f7c8.gif"></CENTER>
 
 ### <h2>About Me : </h2>
 
