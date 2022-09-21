@@ -62,6 +62,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishgaur1354&show_icons=true&theme=algolia)
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/>
-
-<a href="https://github.com/KrishGaur1354"><h1 align = "center"><i>YOU'RE STILL WATCHING AREN'T YOU, DON'T WORRY JUST CLICK HERE & REFRESH THE PAGE</i></h1></a>
