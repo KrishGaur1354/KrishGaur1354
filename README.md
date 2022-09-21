@@ -55,6 +55,8 @@
 
 - Check Out my <a href="https://leetcode.com/KrishGaur1354/"><i><u>leetcode profile</u></i></a>.
 
+- Certification in GitOps Fundamentals(GitOps certified by argo).
+
 ---
 ### Most Used Languages
 
