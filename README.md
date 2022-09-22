@@ -45,7 +45,7 @@
 
 ---
 
-### <h2>About Me : </h2>
+### ABOUT ME :
 
 - I'm a newbie to Programming and web devlopment.
 
@@ -58,7 +58,7 @@
 - Certification in <a href="https://learning.codefresh.io/certificate/6197cb3b2fbcec4da328aab2/user/632b3cc7ed00447afc3fc44e"><i>GitOps Fundamentals</i></a>(GitOps certified by argo).
 
 ---
-### Most Used Languages
+### GITHUB STATS : 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishgaur1354&show_icons=true&theme=algolia)
