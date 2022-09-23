@@ -65,4 +65,6 @@
 ### GITHUB STATS : 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishgaur1354&show_icons=true&theme=algolia)
+![krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishgaur1354&show_icons=true&theme=algolia)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KrishGaur1354)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KrishGaur1354)  
