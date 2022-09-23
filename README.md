@@ -71,7 +71,7 @@
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&layout=compact" alt="lang" />
  <td><img src="https://github-readme-stats.vercel.app/api?username=krishgaur1354&show_icons=true&theme=algolia" alt="cont" /></td>
 <div align="center"> 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishGaur1354" alt="streak" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishGaur1354&theme=dark" alt="streak" /></p>
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KrishGaur1354&theme=xcode)  
