@@ -74,4 +74,4 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishGaur1354" alt="streak" /></p>
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KrishGaur1354)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KrishGaur1354&theme=xcode)  
