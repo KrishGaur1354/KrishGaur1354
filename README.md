@@ -53,7 +53,7 @@
 
 - I'm a newbie to Programming and web devlopment.
 
-- I'm Currently learning and making projects using Java , Javascript , HTML , CSS , Python , MySQL & C++.
+- I'm Currently learning and making projects using Java, Javascript, HTML, CSS, Python, MySQL & C++.
 
 - You can contact me via my personal E-mail [<i>here</i>](mailto:krishgaur13@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
 
