@@ -10,7 +10,6 @@
 ![Youtube Second channel subscribers](https://img.shields.io/youtube/channel/subscribers/UChVQCKleV_WKpQkPu_8nozw?style=social)
 ![Twitter Followers](https://img.shields.io/twitter/follow/ThatOneKrish?style=social)
 ![Github Profile](https://img.shields.io/github/followers/KrishGaur1354?style=social)
-![Github Stars](https://img.shields.io/github/stars/KrishGaur1354?style=social)
 <div align="center">
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=KrishGaur1354&theme=discord&title=Stars,Followers,Commits,Repositories,PullRequest" alt="trophy"></p>
  </div>
