@@ -75,5 +75,5 @@
 <table align="center">
  <tr>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&layout=compact&theme=react" alt="streak" />
- <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react" alt="readm" /> </td>
+ <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishGaur1354&show_owner=KrishGaur1354&repo=Profile-Portfolio&theme=react" alt="readm" /> </td>
 </table>
