@@ -53,6 +53,8 @@
 
 - I'm Currently learning and making projects using Java, Javascript, HTML, CSS, Python, MySQL & C++.
 
+- Check my <a href="https://www.linkedin.com/in/thatonekrish/"><i><u>Linkedin Profile</u></i></a>.
+
 - You can contact me via my personal E-mail [<i>here</i>](mailto:krishgaur13@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
 
 - Check Out my <a href="https://leetcode.com/KrishGaur1354/"><i><u>leetcode profile</u></i></a>.
