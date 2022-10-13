@@ -13,7 +13,8 @@
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=KrishGaur1354&theme=discord&title=Stars,Followers,Commits,Repositories,PullRequest" alt="trophy"></p>
  </div>
 
-<CENTER><img width = "1000px" height = "250px" src="https://github.com/KrishGaur1354/Practiceins/blob/master/ezgif-1-dc7ee4f7c8.gif"></CENTER>
+[![@thatonekrish's Holopin board](https://holopin.me/thatonekrish)](https://holopin.io/@thatonekrish)
+
 
 ---
 
