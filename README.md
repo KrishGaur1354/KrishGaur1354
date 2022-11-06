@@ -56,11 +56,11 @@
 
 - Check my <a href="https://www.linkedin.com/in/thatonekrish/"><i><u>Linkedin Profile</u></i></a>.
 
-- You can contact me via my personal E-mail [<i>here</i>](mailto:krishgaur13@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
-
 - Check Out my <a href="https://leetcode.com/KrishGaur1354/"><i><u>leetcode profile</u></i></a>.
 
 - Certification in <a href="https://learning.codefresh.io/certificate/6197cb3b2fbcec4da328aab2/user/632b3cc7ed00447afc3fc44e"><i>GitOps Fundamentals</i></a>(GitOps certified by argo).
+
+- You can contact me via my personal E-mail [<i>here</i>](mailto:krishgaur13@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KrishGaur1354) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thatonekrish/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ThatOneKrish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/19863652/thatonekrish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/ThatOneFormula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/KrishGaur1354/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/csrealracing13d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](https://hub.docker.com/u/thatoneformula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](krishgaur13@gmail.com)  
 ---
