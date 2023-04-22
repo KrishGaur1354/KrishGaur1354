@@ -50,15 +50,11 @@
 
 ### ABOUT ME :
 
-- I'm a newbie to Programming and web devlopment.
+- I'm currently pursuing a career in DevOps and Cloud Computing.
 
-- I'm Currently learning and making projects using Java, Javascript, HTML, CSS, Python, MySQL & C++.
+- I'm currently making and contributing to open-source projects based on langauges like: Java, Bash, Javascript, HTML, CSS, Python, MySQL & C++.
 
 - Check my <a href="https://www.linkedin.com/in/thatonekrish/"><i><u>Linkedin Profile</u></i></a>.
-
-- Check Out my <a href="https://leetcode.com/KrishGaur1354/"><i><u>leetcode profile</u></i></a>.
-
-- Certification in <a href="https://learning.codefresh.io/certificate/6197cb3b2fbcec4da328aab2/user/632b3cc7ed00447afc3fc44e"><i>GitOps Fundamentals</i></a>(GitOps certified by argo).
 
 - You can contact me via my personal E-mail [<i>here</i>](mailto:krishgaur13@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
 
