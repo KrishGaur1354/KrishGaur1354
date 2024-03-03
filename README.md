@@ -2,7 +2,7 @@
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg">
 
 
-A bit about Myself, I am <b>Krish Gaur</b> a proficient software developer based in New Delhi, India. I have a comprehensive skill set including various programming languages such as <b>Java, C/C++, Go, Python, Rust, HTML, CSS, JavaScript, and PHP</b>. My expertise extends to tools like <b>Git, Docker, Kubernetes, RapidAPI, Flask, Node.js, React.js, and databases like MongoDB.</b>⚡
+A bit about Myself, I am <b>Krish Gaur</b>, a proficient software developer based in New Delhi, India. I have a comprehensive skill set including various programming languages such as <b>Java, C/C++, Go, Python, Rust, HTML, CSS, JavaScript, and PHP</b>. My expertise extends to tools like <b>Git, Docker, Kubernetes, RapidAPI, Flask, Node.js, React.js, and databases like MongoDB.</b>⚡
 
 <h4 align="center">Aspiring DevOps & Software Engineer | Beta MLSA @Microsoft | AWS AI & ML Scholar | Open-Source Contributor | ML Enthusiast </h3>
 
