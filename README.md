@@ -1,4 +1,4 @@
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/thatonekrish/" target="_blank"> Krish Gaur </a></h1>
+<h1 align="center" >Hi, I'm <a href="https://krishgaur-portfolio.netlify.app/" target="_blank"> Krish Gaur </a></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg">
 
 
