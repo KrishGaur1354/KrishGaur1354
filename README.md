@@ -1,30 +1,12 @@
-<h1 align="center">Hello <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">,I'm Krish Gaur</h2>
-<h2 align="center">Welcome to my profile</h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/thatonekrish/" target="_blank"> Krish Gaur </a></h1>
+<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg">
 
 
+A bit about Myself, I am <b>Krish Gaur</b> a proficient software developer based in New Delhi, India. I have a comprehensive skill set including various programming languages such as <b>Java, C/C++, Go, Python, Rust, HTML, CSS, JavaScript, and PHP</b>. My expertise extends to tools like <b>Git, Docker, Kubernetes, RapidAPI, Flask, Node.js, React.js, and databases like MongoDB.</b>⚡
+
+<h3 align="center">Aspiring DevOps & Software Engineer | Beta MLSA @Microsoft | AWS AI & ML Scholar | Open-Source Contributor | ML Enthusiast </h3>
 
 
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=KrishGaur1354&theme=discord&title=Stars,Followers,Commits,Repositories,PullRequest" alt="trophy">
-</p>
-
-
-[![@thatonekrish's Holopin board](https://holopin.me/thatonekrish)](https://holopin.io/@thatonekrish)
-
-
-
-
-## About Me :
-```
-- Passionate Software Developer: Dedicated to crafting innovative solutions and exploring emerging technologies.
-- Technologies I Know:
-  - Proficient in programming languages such as Java, C, Golang, Python, HTML, CSS, and JavaScript.
-  - Experienced in using developer tools including Git, Docker, Kubernetes, Flask, React.js, and more.
-  - Skilled in working with databases like MongoDB, MySQL, and PostgreSQL.
-  - Familiar with AIML tools such as Pandas, NumPy, TensorFlow, and OpenCV.
-  - Knowledgeable in cloud platforms like Azure, AWS, and Heroku.
-- Aspiring DevOps Engineer: Striving to bridge the gap between development and operations.
-```
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KrishGaur1354) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thatonekrish/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ThatOneKrish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/19863652/thatonekrish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/ThatOneFormula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/KrishGaur1354/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/csrealracing13d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](https://hub.docker.com/u/thatoneformula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](krishgaur13@gmail.com)  
 ---
