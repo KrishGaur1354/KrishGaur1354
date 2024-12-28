@@ -22,5 +22,5 @@ A bit about Myself, I am <b>Krish Gaur</b>, a proficient software developer base
 <table align="center">
  <tr>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&layout=compact&theme=react" alt="streak" />
- <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=cropsync&show_owner=cropsync&repo=CropSync&theme=react" alt="readm" /> </td>
+ <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishgaur1354&show_owner=krishgaur1354&repo=Wrong-Way-Detection&theme=react" alt="readm" /> </td>
 </table>
