@@ -18,7 +18,6 @@ A bit about Myself, I am <b>Krish Gaur</b>, a proficient software developer base
  <td><img src="https://github-readme-stats.vercel.app/api?username=krishgaur1354&show_icons=true&theme=react" alt="cont" /></td>
 </table>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KrishGaur1354&theme=react)
 <table align="center">
  <tr>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&layout=compact&theme=react" alt="streak" />
