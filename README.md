@@ -7,13 +7,13 @@
   <div align="left" style="width: 50%;">
 
 ```ascii
- ______                              __                              ____                       ___   __         _     __     
-/\__  _\                            /\ \__    __                    /\  _`\            __     /'___\ /\ \__    /'_`\  /\ \    
-\/_/\ \/      ___       __    _ __  \ \ ,_\  /\_\      __           \ \ \/\ \   _ __  /\_\   /\ \__/ \ \ ,_\  /\_\/\`\\ \ \   
-   \ \ \    /' _ `\   /'__`\ /\`'__\ \ \ \/  \/\ \   /'__`\          \ \ \ \ \ /\`'__\\/\ \  \ \ ,__\ \ \ \/  \/_//'/' \ \ \  
-    \_\ \__ /\ \/\ \ /\  __/ \ \ \/   \ \ \_  \ \ \ /\ \L\.\_         \ \ \_\ \\ \ \/  \ \ \  \ \ \_/  \ \ \_    /\_\   \ \_\ 
-    /\_____\\ \_\ \_\\ \____\ \ \_\    \ \__\  \ \_\\ \__/.\_\         \ \____/ \ \_\   \ \_\  \ \_\    \ \__\   \/\_\   \/\_\
-    \/_____/ \/_/\/_/ \/____/  \/_/     \/__/   \/_/ \/__/\/_/          \/___/   \/_/    \/_/   \/_/     \/__/    \/_/    \/_/
+ ______                              __                            ____                       ___   __         _     __     
+/\__  _\                            /\ \__    __                  /\  _`\            __     /'___\ /\ \__    /'_`\  /\ \    
+\/_/\ \/      ___       __    _ __  \ \ ,_\  /\_\      __         \ \ \/\ \   _ __  /\_\   /\ \__/ \ \ ,_\  /\_\/\`\\ \ \   
+   \ \ \    /' _ `\   /'__`\ /\`'__\ \ \ \/  \/\ \   /'__`\        \ \ \ \ \ /\`'__\\/\ \  \ \ ,__\ \ \ \/  \/_//'/' \ \ \  
+    \_\ \__ /\ \/\ \ /\  __/ \ \ \/   \ \ \_  \ \ \ /\ \L\.\_       \ \ \_\ \\ \ \/  \ \ \  \ \ \_/  \ \ \_    /\_\   \ \_\ 
+    /\_____\\ \_\ \_\\ \____\ \ \_\    \ \__\  \ \_\\ \__/.\_\       \ \____/ \ \_\   \ \_\  \ \_\    \ \__\   \/\_\   \/\_\
+    \/_____/ \/_/\/_/ \/____/  \/_/     \/__/   \/_/ \/__/\/_/        \/___/   \/_/    \/_/   \/_/     \/__/    \/_/    \/_/
 
      - Shuichi Shigeno (しげの 宗一)
 ```
@@ -40,9 +40,6 @@ krish@dev:~$ ls tech/
 </div>
 
 <div align="center">
-
-## Social Links
-
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <a href="https://github.com/KrishGaur1354">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt='github'>
@@ -64,15 +61,18 @@ krish@dev:~$ ls tech/
 </div>
 
 <div align="center">
-
+  
 ## Github Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishGaur1354&theme=react" alt="GitHub Streak Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=krishgaur1354&show_icons=true&theme=react" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&layout=compact&theme=react" alt="Top Languages" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishgaur1354&show_owner=krishgaur1354&repo=Wrong-Way-Detection&theme=react" alt="Featured Repository" />
-
+  
 </div>
+<table>
+ <tr>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishGaur1354&theme=react" alt="lang" />
+ <td><img src="https://github-readme-stats.vercel.app/api?username=krishgaur1354&show_icons=true&theme=react" alt="cont" /></td>
+</table>
+
+<table align="center">
+ <tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&layout=compact&theme=react" alt="streak" />
+ <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishgaur1354&show_owner=krishgaur1354&repo=Wrong-Way-Detection&theme=react" alt="readm" /> </td>
+</table>
