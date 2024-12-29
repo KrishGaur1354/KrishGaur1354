@@ -1,25 +1,78 @@
-<h1 align="center" >Hi, I'm <a href="https://krishgaur-portfolio.netlify.app/" target="_blank"> Krish Gaur </a></h1>
-<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg">
+<div align="center">
+  <h2>「 Krish Gaur 」</h2>
+  <h4>Software Engineer building systems and ML pipelines</h4>
+</div>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div align="left" style="width: 50%;">
 
-A bit about Myself, I am <b>Krish Gaur</b>, a proficient software developer based in New Delhi, India. I have a comprehensive skill set including various programming languages such as <b>Java, C/C++, Go, Python, Rust, HTML, CSS, JavaScript, and PHP</b>. My expertise extends to tools like <b>Git, Docker, Kubernetes, RapidAPI, Flask, Node.js, React.js, and databases like MongoDB.</b>⚡
+```ascii
+ ______                              __                                   ____                       ___   __         _     __     
+/\__  _\                            /\ \__    __                         /\  _`\            __     /'___\ /\ \__    /'_`\  /\ \    
+\/_/\ \/      ___       __    _ __  \ \ ,_\  /\_\      __                \ \ \/\ \   _ __  /\_\   /\ \__/ \ \ ,_\  /\_\/\`\\ \ \   
+   \ \ \    /' _ `\   /'__`\ /\`'__\ \ \ \/  \/\ \   /'__`\               \ \ \ \ \ /\`'__\\/\ \  \ \ ,__\ \ \ \/  \/_//'/' \ \ \  
+    \_\ \__ /\ \/\ \ /\  __/ \ \ \/   \ \ \_  \ \ \ /\ \L\.\_              \ \ \_\ \\ \ \/  \ \ \  \ \ \_/  \ \ \_    /\_\   \ \_\ 
+    /\_____\\ \_\ \_\\ \____\ \ \_\    \ \__\  \ \_\\ \__/.\_\              \ \____/ \ \_\   \ \_\  \ \_\    \ \__\   \/\_\   \/\_\
+    \/_____/ \/_/\/_/ \/____/  \/_/     \/__/   \/_/ \/__/\/_/               \/___/   \/_/    \/_/   \/_/     \/__/    \/_/    \/_/
 
-<h4 align="center">Software Engineer | Open-Source Contributor </h3>
+     - Shuichi Shigeno (しげの 宗一)
+```
+  </div>
+</div>
 
+<div align="left">
 
+```console
+krish@dev:~$ neofetch
+-------------------
+       OS: Unix/Linux
+    Shell: /bin/bash
+Location: New Delhi, India
+  Status: GSoC'24 @ Drupal Association
+   Focus: Systems Programming & ML
+    
+krish@dev:~$ ls tech/
+[C++] [Rust] [Go] [Python] [JavaScript] [PHP]
+[Docker] [Git] [K8s] [RapidAPI] [React] [Node.js]
+[MongoDB] [Flask] [TensorFlow] [OpenCV]
+```
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KrishGaur1354) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thatonekrish/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ThatOneKrish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/19863652/thatonekrish)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/ThatOneFormula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/KrishGaur1354/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/csrealracing13d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](https://hub.docker.com/u/thatoneformula)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](krishgaur13@gmail.com)  
----
+</div>
 
-## Github Contribution Stats:
-<table>
- <tr>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishGaur1354&theme=react" alt="lang" />
- <td><img src="https://github-readme-stats.vercel.app/api?username=krishgaur1354&show_icons=true&theme=react" alt="cont" /></td>
-</table>
+<div align="center">
 
-<table align="center">
- <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&layout=compact&theme=react" alt="streak" />
- <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=krishgaur1354&show_owner=krishgaur1354&repo=Wrong-Way-Detection&theme=react" alt="readm" /> </td>
-</table>
+## Social Links
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <a href="https://github.com/KrishGaur1354">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt='github'>
+  </a>
+  <a href="https://www.linkedin.com/in/thatonekrish/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin'>
+  </a>
+  <a href="https://twitter.com/ThatOneKrish">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt='twitter'>
+  </a>
+  <a href="https://leetcode.com/KrishGaur1354/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt='leetcode'>
+  </a>
+  <a href="mailto:krishgaur13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='gmail'>
+  </a>
+</div>
+
+</div>
+
+<div align="center">
+
+## Github Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishGaur1354&theme=react" alt="GitHub Streak Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=krishgaur1354&show_icons=true&theme=react" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishgaur1354&layout=compact&theme=react" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishgaur1354&show_owner=krishgaur1354&repo=Wrong-Way-Detection&theme=react" alt="Featured Repository" />
+
+</div>
