@@ -28,7 +28,7 @@ krish@dev:~$ neofetch
        OS: Unix/Linux
     Shell: /bin/bash
 Location: New Delhi, India
-  Status: GSoC'24 @ Drupal Association
+  Status: Mentor @ Drupal Association, GSoC'24 @ Drupal Association
    Focus: Systems Programming & ML
     
 krish@dev:~$ ls tech/
