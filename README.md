@@ -54,9 +54,9 @@ Location: New Delhi, India
    Focus: Software Developer, Systems Programming & ML
     
 krish@dev:~$ ls tech/
-[C++] [Rust] [Go] [Python] [JavaScript] [PHP]
-[Docker] [Git] [K8s] [RapidAPI] [React] [Node.js]
-[MongoDB] [Flask] [TensorFlow] [OpenCV]
+[C++] [OCaml] [Go] [Python] [JavaScript] [PHP] 
+[Docker] [Git] [K8s] [RapidAPI] [React] [Node.js] [VectorDB]
+[PostgreSQL] [Django] [Jenkins] [gRPC] [TensorFlow] [OpenCV] 
 ```
 
 </div>
