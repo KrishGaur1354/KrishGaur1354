@@ -50,8 +50,8 @@ krish@dev:~$ neofetch
        OS: Unix/Linux
     Shell: /bin/bash
 Location: New Delhi, India
-  Status: Mentor @ Drupal Association, GSoC'24 @ Drupal Association
-   Focus: Software Developer, Systems Programming & ML
+  Status: GSoC '25 Mentor @ Drupal Association, GSoC'24 Contributor @ Drupal Association
+   Focus: Software Development, Systems Programming & Machine Learning
     
 krish@dev:~$ ls tech/
 [C++] [OCaml] [Go] [Python] [JavaScript] [PHP] 
