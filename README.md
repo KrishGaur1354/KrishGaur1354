@@ -15,9 +15,9 @@
   <a href="https://twitter.com/ThatOneKrish">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt='twitter'>
   </a>
-  <a href="https://leetcode.com/KrishGaur1354/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt='leetcode'>
-  </a>
+    <a href="https://gitlab.com/KrishGaur1354">
+      <img src="https://img.shields.io/badge/gitlab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt='gitlab'>
+    </a>
   <a href="mailto:krishgaur13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt='gmail'>
   </a>
